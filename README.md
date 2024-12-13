@@ -1,2 +1,2 @@
 # ramses-v3-core
-Core smart contract suite for RamsesV3
+Canonical smart contract repository for Ramses V3 and associated forks
